@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZygoteCode&label=Views&color=fb8c00&style=flat-square" alt="ZygoteCode" /> </p>
 
-- ⭐ Wanna try out the best image compression software so far? [Click here for trying now!](https://github.com/ZygoteCode/IMGCompress/)
+- ⭐ A very good and impressive image compression software with a well-built algorithm, using FFMPEG: [Click here for trying now!](https://github.com/ZygoteCode/IMGCompress/)
 
 - 🎧 My really first and big contributions to the AI world are here! [The C# implementation of Silero VAD](https://github.com/ZygoteCode/VadSharp/) - [The C# implementation of background removal](https://github.com/ZygoteCode/RmbgSharp/)
 
