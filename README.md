@@ -13,4 +13,8 @@
 
 - 🌱 I’m currently learning **everyday**. I am not learning anything specific.
 
+- 💻 Languages (programming, markup, scripting) that I am able to program in: **HTML, CSS, JavaScript, Java, Lua, Python, Visual Basic, C#, Dart**.
+
+- 🌐 Frameworks and libraries that I am able to use: **.NET WinForms, .NET 9.0, React.js, Tailwind CSS, Node.js, Flutter**.
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZygoteCode&show_icons=true&theme=dracula&title_color=fb8c00&text_color=000000&bg_color=ffffff&locale=en" alt="ZygoteCode" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZygoteCode&theme=default" alt="ZygoteCode" /></p>
