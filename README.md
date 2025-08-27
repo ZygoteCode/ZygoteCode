@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **everyday**. I am not learning anything specific.
 
-- 💻 Languages (programming, markup, scripting) that I am able to program in: **HTML, CSS, JavaScript, Java, Lua, Python, Visual Basic, C#, Dart**.
+- 💻 Languages (programming, markup, scripting, querying) that I am able to program in: **HTML, CSS, JavaScript, Java, Lua, Python, Visual Basic, C#, Dart, PHP, SQL**.
 
 - 🌐 Frameworks and libraries that I am able to use: **.NET WinForms, .NET 9.0, React.js, Tailwind CSS, Node.js, Flutter**.
 
