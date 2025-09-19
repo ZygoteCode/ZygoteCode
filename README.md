@@ -11,7 +11,7 @@
 
 - 🔭 My favourite projects are the following (I know, they are much): [UnseeSharp](https://github.com/ZygoteCode/UnseeSharp/), [Obfusio](https://github.com/ZygoteCode/Obfusio/), [MemoryHacks](https://github.com/ZygoteCode/MemoryHacks/), [MalwareLib](https://github.com/ZygoteCode/MalwareLib), [PickAnyVoice](https://github.com/ZygoteCode/PickAnyVoice/), [PilotAntiCheat](https://github.com/ZygoteCode/PilotAntiCheat/), [SSCP](https://github.com/ZygoteCode/SSCP/), [ViperCleaner](https://github.com/ZygoteCode/ViperCleaner/), [GrandAntiCheat](https://github.com/ZygoteCode/GrandAntiCheat/), [OpenMoonLoader](https://github.com/ZygoteCode/OpenMoonLoader), [ELZLOADER](https://github.com/ZygoteCode/ELZLOADER/), [TrojanCreator](https://github.com/ZygoteCode/TrojanCreator/), [Windows6-Malware](https://github.com/ZygoteCode/Windows6-Malware/), [CandyCaptcha](https://github.com/ZygoteCode/CandyCaptcha/), [FUDCE](https://github.com/ZygoteCode/FUDCE/), [SafePlace](https://github.com/ZygoteCode/SafePlace/), [Saientologi-Malware](https://github.com/ZygoteCode/Saientologi-Malware/), [VirtualizationChecks](https://github.com/ZygoteCode/VirtualizationChecks/), [GConverter](https://github.com/ZygoteCode/GConverter/).
 
-- 🌱 I’m currently learning **PostgreSQL**.
+- 🌱 I’m currently learning **React.js + Tailwind CSS**.
 
 - 💻 Languages (programming, markup, scripting, querying) that I am able to program in: **HTML, CSS, JavaScript, Java, Lua, Python, Visual Basic, C#, Dart, PHP, SQL**.
 
