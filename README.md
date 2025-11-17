@@ -15,6 +15,6 @@
 
 - 💻 Languages (programming, markup, scripting, querying) that I am able to program in: **HTML, CSS, JavaScript, Java, Lua, Python, Visual Basic, C#, Dart, PHP, SQL**.
 
-- 🌐 Frameworks/libraries/ecosystems that I am able to work with: **.NET WinForms, .NET 9.0, React.js (Vite), Tailwind CSS, Node.js, Flutter, PostgreSQL**.
+- 🌐 Frameworks/libraries/ecosystems that I am able to work with: **.NET WinForms, .NET 9.0, React.js (Vite), Tailwind CSS, Node.js (also with Bun), Flutter, PostgreSQL**.
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZygoteCode&show_icons=true&theme=dracula&title_color=fb8c00&text_color=000000&bg_color=ffffff&locale=en" alt="ZygoteCode" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZygoteCode&theme=default" alt="ZygoteCode" /></p>
