@@ -1,6 +1,5 @@
 <h1 align="center">Hi everybody! 👋</h1>
 <h3 align="center">I'm a passionate developer who likes to do his best for open-source projects!</h3>
-<h3 align="center">Founder of <a href="https://github.com/HytaleSupporters">HytaleSupporters</a> organization</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZygoteCode&label=Views&color=fb8c00&style=flat-square" alt="ZygoteCode" /> </p>
 
